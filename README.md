@@ -7,3 +7,6 @@ This repository provides nginx
 
 The complete stack can be found at https://github.com/BrisklyPapers/webstack
 
+## Credits
+
+Nginx Configuration: [Tarun Lalwani](http://tarunlalwani.com/) @ [Stackoverflow](https://stackoverflow.com)

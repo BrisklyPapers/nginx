@@ -1,4 +1,3 @@
-FROM nginx:1.10
+FROM nginx:latest
 
-ADD ./web/vhost.conf /etc/nginx/conf.d/default.conf
 WORKDIR /var/www
